@@ -1,5 +1,9 @@
 # WebRTC
 webRTC :peer to peer connection
+environmental conditions:
+- JAVA Spring boot
+- IDE:idea
+- https
 local area network demo :
 - send message √
 - voice chat √
